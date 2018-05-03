@@ -25,3 +25,8 @@ github操作
 
     - ファイルをリモートリポジトリへ登録
       「git push -u origin master」を実施
+
+全量更新
+git add .
+git commit -m "a"
+git push -u origin master
