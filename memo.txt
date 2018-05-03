@@ -17,3 +17,11 @@ github操作
 
     - ファイルをリモートリポジトリへ登録
       「git push -u origin master」を実施
+
+  - ファイルの削除
+
+    - 削除コマンド
+      「git rm -f xxx」を実施
+
+    - ファイルをリモートリポジトリへ登録
+      「git push -u origin master」を実施
