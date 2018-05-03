@@ -1,0 +1,16 @@
+URL
+https://github.com/WHiroyuki/python_study
+https://www.python-izm.com/
+
+github操作
+  - ファイルの作成
+
+    - ファイル作成
+      ファイルを新規で作成
+
+    - ファイル一時追加
+      作成したファイルのディレクトリまでcd
+      「git add xxx」を実行
+
+    - ファイルコミット
+      「git commit -m "add file xxx"」を実行
