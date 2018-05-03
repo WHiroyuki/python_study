@@ -14,3 +14,6 @@ github操作
 
     - ファイルコミット
       「git commit -m "add file xxx"」を実行
+
+    - ファイルをリモートリポジトリへ登録
+      「git push -u origin master」を実施
